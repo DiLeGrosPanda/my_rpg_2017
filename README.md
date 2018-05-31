@@ -1,4 +1,5 @@
 # my_rpg_2017
+Epitech's project.
 1 month project: create my own RPG. Made with the CSFML library
 
 There are alot things that i would do differently now.
